@@ -1,1 +1,4 @@
 Firstly supposed to return an empty string (thus, the main theme of this exercise)
+
+Then, we fix it to return the wanted expression 
+(using Jest and obviously Node.js)
