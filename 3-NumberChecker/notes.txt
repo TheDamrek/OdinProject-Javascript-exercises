@@ -1,0 +1,1 @@
+so we've got some numbers, it is supposed to return a result in function of their value, equal or superior to 10 results in true, while the contrary results in false (under 10)
