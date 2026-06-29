@@ -1,0 +1,13 @@
+{
+  "name": "JoinStrings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JoinStrings.js",
+  "scripts": {
+   "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
