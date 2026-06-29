@@ -1,8 +1,8 @@
 {
-  "name": "HelloWorld",
+  "name": "AddNumbers",
   "version": "1.0.0",
   "description": "",
-  "main": "HelloWorld.js",
+  "main": "AddNumbers.js",
   "scripts": {
    "test": "npx jest"
   },
