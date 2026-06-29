@@ -1,0 +1,13 @@
+{
+  "name": "MathEquations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MathEquations.js",
+  "scripts": {
+   "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
