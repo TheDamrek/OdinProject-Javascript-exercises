@@ -1,0 +1,5 @@
+The coma in Javascript isn't represented by ','
+         It is represented by ||
+
+The sum is a secondary parameter of the for loop, can't be added inside the parentheses
+      Instead, it is inside of {}, you could see it as a consequence of the min value going up?

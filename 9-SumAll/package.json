@@ -1,0 +1,13 @@
+{
+  "name": "SumAll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SumAll.js",
+  "scripts": {
+   "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
