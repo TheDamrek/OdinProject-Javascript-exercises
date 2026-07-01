@@ -1,0 +1,5 @@
+When working with numeral strings (not sure if the term is correct), you need to use the + sign on the return parameter
+
+The ToFixed(1) element will automatically represent 0 as 0.0, which then opposes completely the pure equality parameter.
+
+To fix this, just use the +

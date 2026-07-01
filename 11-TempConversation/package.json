@@ -1,0 +1,13 @@
+{
+  "name": "TempConversation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TempConversation.js",
+  "scripts": {
+   "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
