@@ -1,0 +1,3 @@
+The parameter inside of the function has to stay in it.
+You can't declare a variable and let the parameter blank.
+The parameter is in fact waiting to be tested.
