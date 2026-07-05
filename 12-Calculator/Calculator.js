@@ -7,20 +7,36 @@ const subtract = function(a, b) {
 };
 
 const sum = function(numbers) {
-	let 
+	let total = 0;
+    for (let i = 0; i < numbers.length; i++){
+        total += numbers[i];
+    }
+    return total;
 };
 
-const multiply = function() {
-
+const multiply = function(numbers) {
+     let total = 1;
+     for (let i = 0; i < numbers.length; i++){
+        total *= numbers[i];
+    }
+    return total;
 };
 
-const power = function() {
-	
+    const power = function(a, b) {
+
+    let total = 1;
+    for (let i = 0; i < b; i++){
+        total = total*a;
+    }
+    return total;
 };
 
-const factorial = function() {
-	
-};
+const factorial = function(number) {
+    let total = 1;
+    for (let i = number; i > 1; i--)
+    {total = total*i;}
+    return total;
+   };
 
 module.exports = {
   add,

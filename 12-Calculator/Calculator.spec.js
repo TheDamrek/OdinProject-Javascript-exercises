@@ -29,7 +29,7 @@ describe('subtract', () => {
 });
 
 describe('sum', () => {
-  test.skip('computes the sum of an empty array', () => {
+  test('computes the sum of an empty array', () => {
     expect(calculator.sum([])).toBe(0);
   });
 
@@ -47,7 +47,7 @@ describe('sum', () => {
 });
 
 describe('multiply', () => {
-  test.skip('multiplies two numbers', () => {
+  test('multiplies two numbers', () => {
     expect(calculator.multiply([2, 4])).toBe(8);
   });
 
@@ -57,7 +57,7 @@ describe('multiply', () => {
 });
 
 describe('power', () => {
-  test.skip('raises one number to the power of another number', () => {
+  test('raises one number to the power of another number', () => {
     expect(calculator.power(4, 3)).toBe(64); // 4 to third power is 64
   });
 
