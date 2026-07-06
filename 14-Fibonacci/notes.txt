@@ -1,0 +1,3 @@
+I absolutely need to declare the 'next' variable outside of the for loop, else the code wouldn't work.
+
+The negative n parameter need to be announced before the loop, or else wouldn't be taken in consideration
