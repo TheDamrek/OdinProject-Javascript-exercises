@@ -1,0 +1,13 @@
+{
+  "name": "capitalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+   "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
